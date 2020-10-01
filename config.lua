@@ -14,7 +14,8 @@ Config.Locale                     = 'en'
 Config.AuthorizedVehicles = {
 	{model = 'taxi', label = 'Taxi'},
 	{model = 'stretch', label = 'Limo'},
-	{model = 'patriot2', label = 'Hummer'}
+	{model = 'patriot2', label = 'Hummer'},
+	{model = 'rentalbus', label = 'Shuttle Bus'}
 }
 
 Config.Zones = {
